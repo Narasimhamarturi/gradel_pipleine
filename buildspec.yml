@@ -1,4 +1,7 @@
 version: 0.2
+env:
+  variables:
+    GRADLE: "/root/gradle-3.5/bin"
 
 phases:
   install:
